@@ -81,7 +81,7 @@ minishell> echo $VAR
 
 # Using pipes and redirection
 minishell> cat file.txt | grep "searched_term" > result.txt
-# > will create the result.txt file containing the lines containing the "searched_term"
+# > will create the result.txt file including the lines containing the "searched_term"
 ```
 
 ## Shell Commands Supported
