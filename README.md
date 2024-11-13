@@ -49,6 +49,8 @@ To set up **Minishell**, follow these steps:
 
 3. This command generates an executable called `minishell` in the root of the project.
 
+`/!\` You might need to install the readline library and replace the RDL_INC (path to readline include directory) and RDL_LIB (path to readline lib directory) by yours in the Makefile.
+
 ## Usage
 
 Launch **Minishell** by running the executable:
